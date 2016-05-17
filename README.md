@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Blueprint: Zoom Slider
 
 A simple content slider with depth-like zoom functionality for a predefined area in each slide.
@@ -40,3 +41,7 @@ Follow us: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.face
 [© Codrops 2015](http://www.codrops.com)
 
 
+=======
+# ticketbox
+movie booking website
+>>>>>>> fd5a114edfc834dfbb4d5e944d1ee3434d97137f
