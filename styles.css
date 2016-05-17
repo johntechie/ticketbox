@@ -15,12 +15,17 @@
   height: 250px;
 }
 
-.ROW3 img{
-
+.ROW3 {
+  width: 30%;
 
 }
 
 .ROW4 img{
 	width: 80px;
 	height: 350px;
+}
+
+.ROW5 {
+  width: 70%;
+
 }
